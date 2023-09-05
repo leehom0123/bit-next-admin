@@ -6,7 +6,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "127.0.0.1",
+          "Host": "host.docker.internal",
           "Port": 30015
         }
       ],
@@ -34,7 +34,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "127.0.0.1",
+          "Host": "host.docker.internal",
           "Port": 30015
         }
       ],
@@ -62,7 +62,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "127.0.0.1",
+          "Host": "host.docker.internal",
           "Port": 30015
         }
       ],
@@ -98,7 +98,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "127.0.0.1",
+          "Host": "host.docker.internal",
           "Port": 30015
         }
       ],
@@ -134,7 +134,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "127.0.0.1",
+          "Host": "host.docker.internal",
           "Port": 30015
         }
       ],
@@ -170,7 +170,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "127.0.0.1",
+          "Host": "host.docker.internal",
           "Port": 44385
         }
       ],
@@ -196,7 +196,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "127.0.0.1",
+          "Host": "host.docker.internal",
           "Port": 44385
         }
       ],
@@ -224,7 +224,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "127.0.0.1",
+          "Host": "host.docker.internal",
           "Port": 30015
         }
       ],

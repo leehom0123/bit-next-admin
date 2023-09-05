@@ -10,5 +10,6 @@ RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo '$TZ' > /etc/timezone
 EXPOSE 80/tcp
 VOLUME [ "./app/Logs" ]
 VOLUME [ "./app/Modules" ]
+VOLUME [ "./app/OcelotConfig" ]
 
 ENTRYPOINT ["dotnet", "LINGYUN.MicroService.Internal.ApiGateway.dll"]
